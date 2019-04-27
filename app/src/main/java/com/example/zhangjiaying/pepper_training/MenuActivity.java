@@ -6,7 +6,7 @@ import android.os.Bundle;
 
 public class MenuActivity extends AppCompatActivity {
 
-    private static final int MAX_LESSON_NUMBER = 1;
+    private static final int MAX_LESSON_NUMBER = 30;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
