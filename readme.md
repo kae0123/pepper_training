@@ -11,3 +11,7 @@
   - 聴き取り
   - PhraseSetBuilder
   - ListenBuilder
+
+- Lesson03
+  - 非同期処理
+  - ボタンを押したら発話(基本)
